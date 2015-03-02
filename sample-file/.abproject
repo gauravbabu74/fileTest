@@ -47,5 +47,8 @@
   ],
   "Author": "",
   "Description": "sample-file",
-  "Framework": "Cordova"
+  "Framework": "Cordova",
+  "projectVersion": "1",
+  "WP8PublisherID": "{9c4140f4-45cd-4261-a76a-94319cd09fa1}",
+  "WP8ProductID": "{244a99c1-f242-4c4e-9d8d-c1b0854817a1}"
 }
